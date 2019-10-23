@@ -1,0 +1,2 @@
+TU DOIS AJOUTER UN 0 à GAUCHE pour faire bouger
+Socket asynchrone

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1561729681 source:c:\aaaaa\main.cpp
+	<iostream>
+	<fstream>
+	"SocketClient.h"
+
+1457880505 c:\program files (x86)\codeblocks\cysocket\include\socketclient.h
+	<string>
+	<sstream>
+	<winsock2.h>
+	<iostream>
+
+1558955921 c:\aaaaa\socketclient.h
+	<string>
+	<sstream>
+	<winsock2.h>
+	<iostream>
+
+1457880505 source:c:\aaaaa\socketclient.cpp
+	"SocketClient.h"
+
